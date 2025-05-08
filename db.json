@@ -1,28 +1,28 @@
 {
-    "menu selections": [
+    "menu": [
       {
-        "fullName": "Tisha Ross",
-        "appetizer": "shrimp cocktail",
+        "name": "Tisha Ross",
+        "selection": "shrimp cocktail",
         "id": 1
       },
       {
-        "fullName": "Tisha Ross",
-        "salad": "wedge",
+        "name": "Tisha Ross",
+        "selection": "wedge",
         "id": 2
       },
       {
-        "fullName": "Tisha Ross",
-        "main": "filet mignon",
+        "name": "Tisha Ross",
+        "selection": "filet mignon",
         "id": 3
       },
       {
-        "fullName": "Tisha Ross",
-        "desert": "creme brule",
+        "name": "Tisha Ross",
+        "selection": "creme brule",
         "id": 4
       },
       {
-        "fullName": "Tisha Ross",
-        "beverage": "cabernet",
+        "name": "Tisha Ross",
+        "selection": "cabernet",
         "id": 5
       }
     ]
